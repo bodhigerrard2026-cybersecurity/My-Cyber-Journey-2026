@@ -10,3 +10,7 @@ Started: March 2026
 
 ## 📓 Daily Log
 - **Day 1:** Set up my GitHub and learned basic Linux commands (`ls`, `cd`, `touch`).
+
+
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbodhigerrard2026-cybersecurity%2FMy-Cyber-Journey-2026&label=Total%20Views&labelColor=%2324292e&countColor=%23007ec6&style=flat)
